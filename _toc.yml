@@ -3,6 +3,9 @@
 
 format: jb-book
 root: intro
+options: 
+  numbered: True
 chapters:
-- file: markdown
-- file: notebooks
+- file: module1 
+- file: module2 
+- file: module3 
